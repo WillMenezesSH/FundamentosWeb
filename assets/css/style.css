@@ -1,0 +1,45 @@
+/* Estilos da página index.html */
+.container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+li a:hover{
+    color: blue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    color: rgb(105, 14, 209);
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+/* Estilos da página sons.html/peaky.html/vikings.html */
+
+
+img
+{
+    height: 398px;
+    width: 760px;
+    border: 20px;
+    border-color: black;
+}
+
+img:hover{
+    height: 450px;
+    width: 840px;
+
+}
+
